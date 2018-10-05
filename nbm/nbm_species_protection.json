@@ -1,0 +1,11 @@
+{
+  "title": "Protection Status of Terrestrial Vertebrate Species",
+  "description": "Unable to retrieve a description.",
+  "charts": [
+    {
+      "title": "Protection Status of Terrestrial Vertebrate Species",
+      "type": "species_AOI",
+      "apiEndpoint": "https://sciencebase.usgs.gov/staging/bis/api/v1/gapmetrics/species/protection?feature_id=",
+    }
+  ]
+}
