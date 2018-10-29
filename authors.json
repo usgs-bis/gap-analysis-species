@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Alexa McKerrow",
+        "oldPartyId": 6780,
+        "type": "Author",
+        "contactType": "person",
+        "email": "amckerrow@usgs.gov",
+        "active": true,
+        "firstName": "Alexa",
+        "lastName": "McKerrow",
+        "cellPhone": "5712185474",
+        "organization": {
+            "displayText": "Biogeographic Characterization"
+        },
+        "primaryLocation": {
+            "name": "Alexa McKerrow/BRD/USGS/DOI - Primary Location",
+            "building": "Bldg Record",
+            "buildingCode": "AVD",
+            "officePhone": "9195132853",
+            "faxPhone": "9195154454",
+            "streetAddress": {
+                "line1": "David Clark Labs, NC State Univ",
+                "city": "Raleigh",
+                "state": "NC",
+                "zip": "27695-7617"
+            },
+            "mailAddress": {
+                "line1": "NC Coop F&W Res Unit, NC St Univ, Dept of Zoology, Campus Box 7617",
+                "city": "Raleigh",
+                "state": "NC",
+                "zip": "27695-7617",
+                "country": "USA"
+            }
+        },
+        "orcId": "0000-0002-8312-2905"
+    },
+    {
+        "name": "Julie S Prior-Magee",
+        "oldPartyId": 8296,
+        "type": "Author",
+        "contactType": "person",
+        "email": "jpmagee@usgs.gov",
+        "active": true,
+        "firstName": "Julie",
+        "middleName": "S",
+        "lastName": "Prior-Magee",
+        "organization": {
+            "displayText": "Biogeographic Characterization"
+        },
+        "primaryLocation": {
+            "name": "Julie S Prior-Magee/BRD/USGS/DOI - Primary Location",
+            "building": "Knox Hall NM State Univ",
+            "buildingCode": "KGL",
+            "officePhone": "5755571566",
+            "faxPhone": "5756461281",
+            "streetAddress": {
+                "line1": "2980 Espina St, NM State Univ Knox Hall",
+                "city": "Las Cruces",
+                "state": "NM",
+                "zip": "99003"
+            },
+            "mailAddress": {
+                "line1": "P.O. Box 30003, Dept. 4901, Mail Stop 4901",
+                "mailStopCode": "4901",
+                "city": "Las Cruces",
+                "state": "NM",
+                "zip": "88003",
+                "country": "USA"
+            }
+        },
+        "orcId": "0000-0003-4031-1885"
+    }
+]
